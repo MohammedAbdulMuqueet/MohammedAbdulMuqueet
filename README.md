@@ -5,7 +5,7 @@
 - 💻 I have experience in Java and Python programming languages, and I’m passionate about building innovative and impactful projects.
 - 👀 I’m interested in creating full-stack web applications and exploring new technologies in the field of software development.
 - 💞️ I’m looking to collaborate on open-source projects, web development projects, and anything tech-related that sparks creativity and learning.
-- 📫 How to reach me: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 📫 How to reach me: [muqueet626@gmail.com](muqueet626@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and challenges, both in code and in real life!
 
